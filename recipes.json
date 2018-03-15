@@ -1,14 +1,14 @@
 [
     { 
-    "name": "Flensjes", 
-    "portions": "4p", 
-    "ingredients": [
-        "melk",
-        "eieren",
-        "bloem",
-        "vanillesuiker"
-      ],
-    "directions":  "Meng alle ingredienten en bak de flensjes in een pan met veel boter"
+        "name": "Flensjes", 
+        "portions": "4p", 
+        "ingredients": [
+            "melk",
+            "eieren",
+            "bloem",
+            "vanillesuiker"
+        ],
+        "directions":  "Meng alle ingredienten en bak de flensjes in een pan met veel boter"
      },
      { 
         "name": "Soep", 
