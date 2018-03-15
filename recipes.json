@@ -2,6 +2,7 @@
     { 
         "name": "Flensjes", 
         "portions": "4p", 
+        "image" : "https://images.pexels.com/photos/730922/pancakes-food-eat-breakfast-730922.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
             "melk",
             "eieren",
@@ -12,7 +13,8 @@
      },
      { 
         "name": "Soep", 
-        "portions": "4p", 
+        "portions": "4p",
+        "image" : "https://images.pexels.com/photos/209540/pexels-photo-209540.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
             "wortels",
             "aardappelen",
