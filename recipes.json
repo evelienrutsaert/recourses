@@ -33,21 +33,33 @@
         ],
         "directions": "Meng alle ingredienten, kook ze en mix alles."
     },    {
-        "name": "Soep",
+        "name": "Brownie",
         "portions": "1",
-        "image": "https://images.pexels.com/photos/209540/pexels-photo-209540.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
+        "image": "https://images.pexels.com/photos/45202/brownie-dessert-cake-sweet-45202.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
-            "wortels",
-            "aardappelen",
-            "bloem",
-            "water"
+            "Bloem",
+            "suiker",
+            "Chocolade",
+            "Eieren"
         ],
         "directions": "Meng alle ingredienten, kook ze en mix alles."
     },
     {
-        "name": "Fruitdessert",
+        "name": "Cupcake",
         "portions": "1",
-        "image": "https://images.pexels.com/photos/8382/pexels-photo.jpg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
+        "image": "https://images.pexels.com/photos/8279/muffin.jpg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
+        "ingredients": [
+            "Bloem",
+            "suiker",
+            "Chocolade",
+            "Eieren"
+        ],
+        "directions": "Meng alle ingredienten, kook ze en mix alles."
+    },
+    {
+        "name": "Macaron",
+        "portions": "1",
+        "image": "https://images.pexels.com/photos/808923/pexels-photo-808923.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
             "yoghurt",
             "aardbeien",
