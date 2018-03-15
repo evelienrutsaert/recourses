@@ -1,26 +1,37 @@
-[
-    { 
-        "name": "Flensjes", 
-        "portions": "4p", 
-        "image" : "https://images.pexels.com/photos/730922/pancakes-food-eat-breakfast-730922.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
+[{
+        "name": "Flensjes",
+        "portions": "1",
+        "image": "https://images.pexels.com/photos/730922/pancakes-food-eat-breakfast-730922.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
             "melk",
             "eieren",
             "bloem",
             "vanillesuiker"
         ],
-        "directions":  "Meng alle ingredienten en bak de flensjes in een pan met veel boter"
-     },
-     { 
-        "name": "Soep", 
-        "portions": "4p",
-        "image" : "https://images.pexels.com/photos/209540/pexels-photo-209540.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
+        "directions": "Meng alle ingredienten en bak de flensjes in een pan met veel boter"
+    },
+    {
+        "name": "Soep",
+        "portions": "1",
+        "image": "https://images.pexels.com/photos/209540/pexels-photo-209540.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
             "wortels",
             "aardappelen",
             "bloem",
             "water"
-          ],
-        "directions":  "Meng alle ingredienten, kook ze en mix alles."
-         }
-    ]
+        ],
+        "directions": "Meng alle ingredienten, kook ze en mix alles."
+    },
+    {
+        "name": "Fruitdessert",
+        "portions": "1",
+        "image": "https://images.pexels.com/photos/8382/pexels-photo.jpg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
+        "ingredients": [
+            "yoghurt",
+            "aardbeien",
+            "crumblekoekjes"
+        ],
+        "directions": "Meng alle ingredienten, kook ze en mix alles."
+    }
+
+]
