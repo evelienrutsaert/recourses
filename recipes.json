@@ -8,10 +8,10 @@
             "bloem",
             "vanillesuiker"
         ],
-        "directions": "Meng alle ingredienten en bak, Meng alle ingredienten en bak de flensjes in een pan met veel boter"
+        "directions": "klop de eieren en de melk door elkaar en meng langzaam met de bloem tot een homogene massa. Bak hierna het beslag in een hete ingevette koekenpan tot dunne pannenkoekjes."
     },
     {
-        "name": "Soep",
+        "name": "Worteloep",
         "portions": "1",
         "image": "https://images.pexels.com/photos/209540/pexels-photo-209540.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
@@ -20,7 +20,7 @@
             "bloem",
             "water"
         ],
-        "directions": "Meng alle ingredienten, kook ze en mix alles."
+        "directions": "Kook al de ingrediënten tot ze gaar zijn. Mix tot de gewenste massa."
     },
     {
         "name": "Fruitdessert",
@@ -31,41 +31,41 @@
             "aardbeien",
             "crumblekoekjes"
         ],
-        "directions": "Meng alle ingredienten, kook ze en mix alles."
+        "directions": "Plaats de de ingrediënten laag voor laag op elkaar. Eindig met een laagje crumnle."
     },    {
         "name": "Brownie",
         "portions": "1",
         "image": "https://images.pexels.com/photos/45202/brownie-dessert-cake-sweet-45202.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
-            "Bloem",
+            "bloem",
             "suiker",
-            "Chocolade",
-            "Eieren"
+            "chocolade",
+            "eieren"
         ],
-        "directions": "Meng alle ingredienten, kook ze en mix alles."
+        "directions": "Smelt de chocolade, splits de eieren. Zeef de bloem boven het beslag en spatel ze er voorzichtig door. Bak af."
     },
     {
         "name": "Cupcake",
         "portions": "1",
         "image": "https://images.pexels.com/photos/8279/muffin.jpg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
-            "Bloem",
+            "bloem",
             "suiker",
-            "Chocolade",
-            "Eieren"
+            "boter",
+            "eieren"
         ],
-        "directions": "Meng alle ingredienten, kook ze en mix alles."
+        "directions": "Doe de boter in een kom en voeg de suiker  beetje bij beetje toe. Mix de boter en de suiker goed door elkaar, totdat er een lichte en luchtige massa ontstaat. Bak af."
     },
     {
         "name": "Macaron",
         "portions": "1",
         "image": "https://images.pexels.com/photos/808923/pexels-photo-808923.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
         "ingredients": [
-            "yoghurt",
-            "aardbeien",
-            "crumblekoekjes"
+            "eiwitten",
+            "poedersuiker",
+            "amandelsuiker"
         ],
-        "directions": "Meng alle ingredienten, kook ze en mix alles."
+        "directions": "Meng de poedersuiker en het amandelpoeder en maal zeer fijn. Begin de eiwitten op te kloppen. Voeg het mengsel van de poedersuiker en het amandelpoeder toe. Spuit rondjes met een diameter van 3 tot 3,5 cm. "
     }
 
 ]
